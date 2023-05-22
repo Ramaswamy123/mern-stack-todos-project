@@ -1,0 +1,17 @@
+.home-container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background-color:rgb(255, 253, 219);
+}
+.company-name{
+    color:brown;
+    font-weight:bold;
+    font-size:45px;
+    margin-bottom:10px;
+}
+.company-name::first-letter{
+    color:black;
+}
