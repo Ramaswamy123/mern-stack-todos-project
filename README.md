@@ -1,11 +1,17 @@
 # mern-stack-todos-project
 
-# Todo List
+## Register into users table in mysql database
+- i provide a Register form so with that form user can fill the details and successfully register into users table 
+- after succesfull registration user can able to sign in succesfully then a todos page will be displayed
 
+## Login Credentials
+username = Ramaswamy Ramisetti
+password = rams123 
+
+# Todo List
 This is a simple Todo List application that allows users to manage their tasks and keep track of their to-do items.
 
 ## Features
-
 - Add new tasks with a title and optional description.
 - Mark tasks as complete or incomplete.
 - Edit existing tasks.
@@ -39,7 +45,7 @@ The application should now be running on `http://localhost:3000`.
 
 ## project images
 
-##Home page
+## Home page
 https://res.cloudinary.com/randy-orton/image/upload/v1684742540/home_page_so1udo.png
 
 ## SignUp Page
